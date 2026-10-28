@@ -1,2 +1,2 @@
 # Certificados
-Certificados na área de TI
+Certificados de curso de extensão na área de TI
